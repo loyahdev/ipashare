@@ -9,7 +9,8 @@
       label-position="left"
     >
       <div class="title-container">
-        <h3 class="title">ipashare后台管理</h3>
+        <h3 class="title">IPA Signer and Storage Service</h3>
+				<h6 class="title">By loyahdev</h6>
       </div>
 
       <el-form-item prop="username">
